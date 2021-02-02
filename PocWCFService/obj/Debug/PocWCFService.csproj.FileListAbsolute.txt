@@ -1,0 +1,7 @@
+C:\Users\T-Gamer\source\repos\PocPollyNetCoreWCF\PocWCFService\bin\PocWCFService.dll.config
+C:\Users\T-Gamer\source\repos\PocPollyNetCoreWCF\PocWCFService\bin\PocWCFService.dll
+C:\Users\T-Gamer\source\repos\PocPollyNetCoreWCF\PocWCFService\bin\PocWCFService.pdb
+C:\Users\T-Gamer\source\repos\PocPollyNetCoreWCF\PocWCFService\obj\Debug\PocWCFService.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\source\repos\PocPollyNetCoreWCF\PocWCFService\obj\Debug\PocWCFService.dll
+C:\Users\T-Gamer\source\repos\PocPollyNetCoreWCF\PocWCFService\obj\Debug\PocWCFService.pdb
+C:\Users\T-Gamer\source\repos\PocPollyNetCoreWCF\PocWCFService\obj\Debug\PocWCFService.csprojAssemblyReference.cache

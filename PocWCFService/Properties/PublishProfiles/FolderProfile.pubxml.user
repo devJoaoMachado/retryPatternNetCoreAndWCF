@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\repos\WCFPolly</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/PocWCFService.dll">
+      <publishTime>02/02/2021 01:50:12</publishTime>
+    </File>
+    <File Include="bin/PocWCFService.pdb">
+      <publishTime>02/02/2021 01:50:12</publishTime>
+    </File>
+    <File Include="GetDateTimeService.svc">
+      <publishTime>01/26/2021 14:43:49</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/02/2021 01:33:53</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

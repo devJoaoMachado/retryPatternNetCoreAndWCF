@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocWCFService", "PocWCFService\PocWCFService.csproj", "{03E14DFF-5C5C-4D1E-882A-AB4A3AA3DE60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PollyNetCore", "PollyNetCore\PollyNetCore.csproj", "{A92F991F-E8E2-4D6E-AAD8-04BB55F8DAB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03E14DFF-5C5C-4D1E-882A-AB4A3AA3DE60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E14DFF-5C5C-4D1E-882A-AB4A3AA3DE60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E14DFF-5C5C-4D1E-882A-AB4A3AA3DE60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E14DFF-5C5C-4D1E-882A-AB4A3AA3DE60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A92F991F-E8E2-4D6E-AAD8-04BB55F8DAB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A92F991F-E8E2-4D6E-AAD8-04BB55F8DAB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A92F991F-E8E2-4D6E-AAD8-04BB55F8DAB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A92F991F-E8E2-4D6E-AAD8-04BB55F8DAB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00B39983-592C-4FD6-BFB7-63B211D5447C}
+	EndGlobalSection
+EndGlobal

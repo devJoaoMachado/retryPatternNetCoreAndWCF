@@ -1,0 +1,14 @@
+C:\Users\T-Gamer\source\repos\PocPollyNetCoreWCF\PollyNetCore\bin\Debug\netcoreapp2.1\PollyNetCore.deps.json
+C:\Users\T-Gamer\source\repos\PocPollyNetCoreWCF\PollyNetCore\bin\Debug\netcoreapp2.1\PollyNetCore.runtimeconfig.json
+C:\Users\T-Gamer\source\repos\PocPollyNetCoreWCF\PollyNetCore\bin\Debug\netcoreapp2.1\PollyNetCore.runtimeconfig.dev.json
+C:\Users\T-Gamer\source\repos\PocPollyNetCoreWCF\PollyNetCore\bin\Debug\netcoreapp2.1\PollyNetCore.dll
+C:\Users\T-Gamer\source\repos\PocPollyNetCoreWCF\PollyNetCore\obj\Debug\netcoreapp2.1\PollyNetCore.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\source\repos\PocPollyNetCoreWCF\PollyNetCore\obj\Debug\netcoreapp2.1\PollyNetCore.RazorAssemblyInfo.cache
+C:\Users\T-Gamer\source\repos\PocPollyNetCoreWCF\PollyNetCore\obj\Debug\netcoreapp2.1\PollyNetCore.RazorAssemblyInfo.cs
+C:\Users\T-Gamer\source\repos\PocPollyNetCoreWCF\PollyNetCore\obj\Debug\netcoreapp2.1\PollyNetCore.AssemblyInfoInputs.cache
+C:\Users\T-Gamer\source\repos\PocPollyNetCoreWCF\PollyNetCore\obj\Debug\netcoreapp2.1\PollyNetCore.AssemblyInfo.cs
+C:\Users\T-Gamer\source\repos\PocPollyNetCoreWCF\PollyNetCore\obj\Debug\netcoreapp2.1\PollyNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\T-Gamer\source\repos\PocPollyNetCoreWCF\PollyNetCore\bin\Debug\netcoreapp2.1\PollyNetCore.pdb
+C:\Users\T-Gamer\source\repos\PocPollyNetCoreWCF\PollyNetCore\obj\Debug\netcoreapp2.1\PollyNetCore.dll
+C:\Users\T-Gamer\source\repos\PocPollyNetCoreWCF\PollyNetCore\obj\Debug\netcoreapp2.1\PollyNetCore.pdb
+C:\Users\T-Gamer\source\repos\PocPollyNetCoreWCF\PollyNetCore\obj\Debug\netcoreapp2.1\PollyNetCore.csprojAssemblyReference.cache
